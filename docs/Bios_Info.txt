@@ -1,0 +1,16 @@
+Information obtained from "atiflash -biosfileinfo 113-eth-sam"
+
+Original bios0:  512kb size of which only 1/2 was used
+    Product Name is :    C940 Polaris20 XL A1 GDDR5 128Mx32 4GB 300e/300m
+    Device ID is    :    67DF
+    Bios Version    :    015.050.002.001.000000
+    Bios P/N is     :    113-ETH-SAM
+    Bios SSID       :    0B31
+    Bios SVID       :    1002
+    Bios Date is    :    06/26/17 03:46
+
+Information using binary editor "NEO"
+
+(C) 1588-2010 , Advanced Micro Devices, Inc
+ATOMBIOSBK-AMD VE R015.050.002.001 
+SAPPHIRE_POLARIS20_C940_XL_D5_4GB_HY
