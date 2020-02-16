@@ -4,9 +4,10 @@ Byte		contents	value/usage	meaning
 Offset
 0,1		55,AA           0xAA55  	signature of bios
 2               76		0xec00  	118*512 length of bios
-3,4,5,6		e9,a1,02,00	jump near+ 2a1  jmp 2a9  (2a1 + next address which is "8"
+3,4,5,6		e9,a1,02,00	jump near+ 2a1  jmp 2a9  (2ad + next address which is "8"
 
 
 2a1:   	4d					start of bios code for first bios image
 
 ec00: 00-------00 all zero			no 55,aa, so not second bios image
+
